@@ -1,0 +1,11 @@
+monai
+nibabel
+einops
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+scipy
+scikit-image
+pillow
