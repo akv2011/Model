@@ -1,2 +1,2 @@
 
-**Authors:** Arunkumar V, Member, IEEE, V. M. Firos, S. Senthilkumar, and G. R. Gangadharan
+**Authors:** Arunkumar V, V. M. Firos, S. Senthilkumar, and G. R. Gangadharan
